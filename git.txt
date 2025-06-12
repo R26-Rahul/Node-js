@@ -1,0 +1,16 @@
+https://github.com/R26-Rahul/Node-js.git
+
+
+echo "# Node-js" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/R26-Rahul/Node-js.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/R26-Rahul/Node-js.git
+git branch -M main
+git push -u origin main
